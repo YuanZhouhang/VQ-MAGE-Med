@@ -93,3 +93,14 @@ When 'train+synthetic' is selected, the result is the augmentation performance a
 ## Acknowledgement
 This work is based on [MAGE](https://github.com/LTH14/mage), [benchmark_VAE](https://github.com/clementchadebec/benchmark_VAE), 
 [Adaptformer](https://github.com/ShoufaChen/AdaptFormer). If you have any questions, please feel free to open an issue.
+
+## Citation
+If you find this work helpful for your project,please consider citing the following paper:
+    @inproceedings{yuan2024adapting,
+      title={Adapting Pre-trained Generative Model to Medical Image for Data Augmentation},
+      author={Yuan, Zhouhang and Fang, Zhengqing and Huang, Zhengxing and Wu, Fei and Yao, Yu-Feng and Li, Yingming},
+      booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+      pages={79--89},
+      year={2024},
+      organization={Springer}
+    }
